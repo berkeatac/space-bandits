@@ -1,0 +1,43 @@
+#sketch-holder {
+    padding: 0px 0px 0px 0px;
+}
+
+#score-div {
+  margin-left: 15px;
+    padding: 0px 20px 0px 20px;
+    color: white;
+    background-color: #0F2E47;
+    text-align: center;
+}
+
+#scores {
+    font-size: 140%;
+}
+
+.row {
+    display: table;
+}
+
+[class*="col-"] {
+    float: none;
+    display: table-cell;
+    vertical-align: top;
+}
+
+button {
+    background-color: rgb(220, 218, 247);
+    color: rgb(37, 85, 142);
+}
+
+h2 {
+    text-align: center;
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+#footer {
+  position:absolute;
+  bottom:0;
+}
