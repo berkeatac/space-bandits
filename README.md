@@ -8,7 +8,7 @@ Space Bandits is a real time multiplayer game, that runs on a browser and uses s
 
 ### Tech
 
-Dillinger uses a number of open source projects to work properly:
+Space Bandits uses a number of open source projects to work properly:
 
 * P5.js - JS client-side library for creating graphic and interactive experiences
 * Twitter Bootstrap - great UI boilerplate for modern web apps
