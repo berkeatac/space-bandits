@@ -30,3 +30,7 @@ $ cd space_bandits
 $ npm install -d
 $ node server.js
 ```
+
+
+### Screenshot 
+<p align="center"> <img src="https://github.com/berkeatac/space-bandits/blob/master/bandits.png" width="350"/> </p>
