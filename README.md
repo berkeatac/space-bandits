@@ -33,4 +33,4 @@ $ node server.js
 
 
 ### Screenshot 
-<p align="center"> <img src="https://github.com/berkeatac/space-bandits/blob/master/bandits.png" width="350"/> </p>
+<p align="center"> <img src="https://github.com/berkeatac/space-bandits/blob/master/bandits.png" width="700"/> </p>
